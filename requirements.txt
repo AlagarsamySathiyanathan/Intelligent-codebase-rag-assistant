@@ -1,0 +1,11 @@
+dotenv
+ipykernel
+langchain
+langchain_community
+langchain_huggingface
+groq
+requests
+streamlit
+tiktoken
+sentence_transformers
+chroma

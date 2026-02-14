@@ -30,7 +30,7 @@ rag_pipeline.py (Context + LLM)
         ↓
 app.py (Streamlit UI → Answer + Sources)
 
-⚙️ Tech Stack
+## Tech Stack
 
 Python
 
@@ -46,7 +46,7 @@ LLM (for answer generation)
 
 Streamlit (Interactive UI)
 
-==> Key Features
+## Key Features
 
 🔎 Natural language querying over code
 
@@ -60,7 +60,7 @@ Streamlit (Interactive UI)
 
 🖥️ Interactive Streamlit interface
 
-📂 Project Structure
+## Project Structure
 intelligent-codebase-rag-assistant/
 │
 ├── ingest.py          # Code ingestion from GitHub repo
@@ -72,7 +72,7 @@ intelligent-codebase-rag-assistant/
 ├── app.py             # Streamlit UI
 └── README.md
 
-==> File-wise Explanation (You Can Put This in README)
+## File-wise Explanation (You Can Put This in README)
 🔹 ingest.py
 
 Loads and reads source code files from a GitHub repository
@@ -119,7 +119,7 @@ Accepts natural language queries
 
 Displays answer along with source references
 
-===>  How to Run the Project
+## How to Run the Project
 
 1️⃣ Clone the repository
 git clone https://github.com/your-username/intelligent-codebase-rag-assistant.git
@@ -139,7 +139,7 @@ python ingest.py
 5️⃣ Launch Streamlit UI
 streamlit run app.py
 
-==>  Example Questions
+## Example Questions
 
 What is the purpose of blueprints.py?
 
@@ -151,7 +151,7 @@ How are HTTP requests simulated in tests?
 
 Which files are critical for request handling?
 
-==> Impact
+ ## Impact
 
 Improved developer onboarding speed
 
@@ -161,7 +161,7 @@ Enabled semantic search instead of keyword search
 
 Built a scalable foundation for AI-powered developer tools
 
-==> Future Improvements
+## Future Improvements
 
 Add multi-repo support
 

@@ -74,7 +74,7 @@ intelligent-codebase-rag-assistant/
 
 ## 🏗️ Architecture Diagram
 
-![Demo Screenshot]("https://github.com/user-attachments/assets/7ec5ac0b-233a-4cf2-8938-c01d446d9d92")
+![Demo Screenshot](https://github.com/user-attachments/assets/7ec5ac0b-233a-4cf2-8938-c01d446d9d92)
 
 ## File-wise Explanation (You Can Put This in README)
 🔹 ingest.py

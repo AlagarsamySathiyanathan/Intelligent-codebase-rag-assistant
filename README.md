@@ -15,7 +15,7 @@ Onboard quickly to unfamiliar projects
 
 This project solves that by enabling natural language search over code using embeddings + vector search + LLM reasoning.
 
-==> System Flow (How It Works)
+## System Flow (How It Works)
 GitHub Repository
         ↓
 ingest.py

@@ -72,9 +72,18 @@ intelligent-codebase-rag-assistant/
 ├── app.py             # Streamlit UI
 └── README.md
 
-## 🏗️ Architecture Diagram
+## 🏗️ Architecture Diagram 
 
 ![Demo Screenshot](https://github.com/user-attachments/assets/7ec5ac0b-233a-4cf2-8938-c01d446d9d92)
+
+![Demo Screenshot](https://github.com/user-attachments/assets/e691bc1c-180e-4b66-a2cf-c68d32ee8ea1)
+
+![Demo Screenshot](https://github.com/user-attachments/assets/0300e4fc-3d22-4be0-8fc1-616a181f5238)
+
+![Demo Screenshot](https://github.com/user-attachments/assets/2da62a80-d3d2-4b40-b7c2-43caa8f9d958)
+
+![Demo Screenshot](https://github.com/user-attachments/assets/9c938d63-e663-4872-8b4d-9e12f8112f9c)
+
 
 ## File-wise Explanation (You Can Put This in README)
 🔹 ingest.py
